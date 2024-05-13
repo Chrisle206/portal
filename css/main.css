@@ -8,7 +8,9 @@ html {
     font-size: 0.95em;
     line-height: 1.5em;
 }
-
+p:hover {
+    cursor: pointer;
+  }
 ::selection {
     color: #000; 
     background: #ff0;
